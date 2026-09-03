@@ -1,2 +1,4 @@
 trading.db
 *.db
+_sz.py
+*.tmp
